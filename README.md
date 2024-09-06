@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack and animations 
 - 🌱 I’m currently learning java,python, data structure using java etc
 - 📫 How to reach me @venigalla_venkata_rupin
+- 🎮 I play call of duty 
 - ⚡ Fun fact: im 19
 
 <!---
